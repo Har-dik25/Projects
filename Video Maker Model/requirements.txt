@@ -1,0 +1,10 @@
+lightning
+gradio
+torch
+diffusers
+transformers
+sentence-transformers
+opencv-python
+ffmpeg-python
+numpy
+Pillow

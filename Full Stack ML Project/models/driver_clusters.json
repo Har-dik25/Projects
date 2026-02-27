@@ -1,0 +1,3474 @@
+[
+  {
+    "Driver": "Carlo Abate",
+    "cluster": 0
+  },
+  {
+    "Driver": "George Abecassis",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kenny Acheson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andrea de Adamich",
+    "cluster": 0
+  },
+  {
+    "Driver": "Philippe Adams",
+    "cluster": 0
+  },
+  {
+    "Driver": "Walt Ader",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kurt Adolff",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fred Agabashian",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kurt Ahrens Jr.",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jack Aitken",
+    "cluster": 0
+  },
+  {
+    "Driver": "Christijan Albers",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alexander Albon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Michele Alboreto",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean Alesi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jaime Alguersuari",
+    "cluster": 0
+  },
+  {
+    "Driver": "Philippe Alliot",
+    "cluster": 0
+  },
+  {
+    "Driver": "Cliff Allison",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fernando Alonso",
+    "cluster": 1
+  },
+  {
+    "Driver": "Giovanna Amati",
+    "cluster": 0
+  },
+  {
+    "Driver": "George Amick",
+    "cluster": 0
+  },
+  {
+    "Driver": "Red Amick",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chris Amon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Anderson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Conny Andersson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Emil Andres",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mario Andretti",
+    "cluster": 1
+  },
+  {
+    "Driver": "Michael Andretti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Keith Andrews",
+    "cluster": 0
+  },
+  {
+    "Driver": "Elio de Angelis",
+    "cluster": 0
+  },
+  {
+    "Driver": "Marco Apicella",
+    "cluster": 0
+  },
+  {
+    "Driver": "M\u00e1rio de Ara\u00fajo Cabral",
+    "cluster": 0
+  },
+  {
+    "Driver": "Frank Armi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chuck Arnold",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ren\u00e9 Arnoux",
+    "cluster": 1
+  },
+  {
+    "Driver": "Peter Arundell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alberto Ascari",
+    "cluster": 1
+  },
+  {
+    "Driver": "Peter Ashdown",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ian Ashley",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gerry Ashmore",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Aston",
+    "cluster": 0
+  },
+  {
+    "Driver": "Richard Attwood",
+    "cluster": 0
+  },
+  {
+    "Driver": "Manny Ayulo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luca Badoer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giancarlo Baghetti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Julian Bailey",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mauro Baldi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bobby Ball",
+    "cluster": 0
+  },
+  {
+    "Driver": "Marcel Balsa",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lorenzo Bandini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Henry Banks",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fabrizio Barbazza",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Barber",
+    "cluster": 0
+  },
+  {
+    "Driver": "Skip Barber",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paolo Barilla",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rubens Barrichello",
+    "cluster": 1
+  },
+  {
+    "Driver": "Michael Bartels",
+    "cluster": 0
+  },
+  {
+    "Driver": "Edgar Barth",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giorgio Bassi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Erwin Bauer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Zsolt Baumgartner",
+    "cluster": 0
+  },
+  {
+    "Driver": "\u00c9lie Bayol",
+    "cluster": 0
+  },
+  {
+    "Driver": "Don Beauman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Karl-G\u00fcnther Bechem[g]",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean Behra",
+    "cluster": 0
+  },
+  {
+    "Driver": "Derek Bell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Stefan Bellof",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul Belmondo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tom Bels\u00f8",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean-Pierre Beltoise",
+    "cluster": 0
+  },
+  {
+    "Driver": "Olivier Beretta",
+    "cluster": 0
+  },
+  {
+    "Driver": "Allen Berg",
+    "cluster": 0
+  },
+  {
+    "Driver": "Georges Berger",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gerhard Berger",
+    "cluster": 1
+  },
+  {
+    "Driver": "\u00c9ric Bernard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Enrique Bernoldi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Enrico Bertaggia",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Bettenhausen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Beuttler",
+    "cluster": 0
+  },
+  {
+    "Driver": "Birabongse Bhanudej",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jules Bianchi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lucien Bianchi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gino Bianco",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hans Binder",
+    "cluster": 0
+  },
+  {
+    "Driver": "Clemente Biondetti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pablo Birger",
+    "cluster": 0
+  },
+  {
+    "Driver": "Art Bisch",
+    "cluster": 0
+  },
+  {
+    "Driver": "Harry Blanchard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Michael Bleekemolen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alex Blignaut",
+    "cluster": 0
+  },
+  {
+    "Driver": "Trevor Blokdyk",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mark Blundell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Raul Boesel",
+    "cluster": 0
+  },
+  {
+    "Driver": "Menato Boffa",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Bondurant",
+    "cluster": 0
+  },
+  {
+    "Driver": "Felice Bonetto",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jo Bonnier",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roberto Bonomi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Juan Manuel Bordeu",
+    "cluster": 0
+  },
+  {
+    "Driver": "Slim Borgudd",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luki Botha",
+    "cluster": 0
+  },
+  {
+    "Driver": "Valtteri Bottas",
+    "cluster": 1
+  },
+  {
+    "Driver": "Jean-Christophe Boullion",
+    "cluster": 0
+  },
+  {
+    "Driver": "S\u00e9bastien Bourdais",
+    "cluster": 0
+  },
+  {
+    "Driver": "Thierry Boutsen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny Boyd",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Brabham",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gary Brabham",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jack Brabham",
+    "cluster": 1
+  },
+  {
+    "Driver": "Bill Brack",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ernesto Brambilla",
+    "cluster": 0
+  },
+  {
+    "Driver": "Vittorio Brambilla",
+    "cluster": 0
+  },
+  {
+    "Driver": "Toni Branca",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gianfranco Brancatelli",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eric Brandon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Don Branson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tom Bridger",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Brise",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chris Bristow",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Broeker",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Brooks",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alan Brown",
+    "cluster": 0
+  },
+  {
+    "Driver": "Walt Brown",
+    "cluster": 0
+  },
+  {
+    "Driver": "Warwick Brown",
+    "cluster": 0
+  },
+  {
+    "Driver": "Adolf Brudes",
+    "cluster": 0
+  },
+  {
+    "Driver": "Martin Brundle",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gianmaria Bruni",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jimmy Bryan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Clemar Bucci",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ronnie Bucknum",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ivor Bueb",
+    "cluster": 0
+  },
+  {
+    "Driver": "S\u00e9bastien Buemi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luiz Bueno",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ian Burgess",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luciano Burti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roberto Bussinello",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jenson Button",
+    "cluster": 1
+  },
+  {
+    "Driver": "Tommy Byrne",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giulio Cabianca",
+    "cluster": 0
+  },
+  {
+    "Driver": "Phil Cade",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alex Caffi",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Campbell-Jones",
+    "cluster": 0
+  },
+  {
+    "Driver": "Adri\u00e1n Campos",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Cannon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eitel Cantoni",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Cantrell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ivan Capelli",
+    "cluster": 0
+  },
+  {
+    "Driver": "Piero Carini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Duane Carter",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eugenio Castellotti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny Cecotto",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andrea de Cesaris",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fran\u00e7ois Cevert",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eug\u00e8ne Chaboud",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jay Chamberlain",
+    "cluster": 0
+  },
+  {
+    "Driver": "Karun Chandhok",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alain de Changy",
+    "cluster": 0
+  },
+  {
+    "Driver": "Colin Chapman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dave Charlton",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pedro Chaves",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Cheesbourg",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eddie Cheever",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andrea Chiesa",
+    "cluster": 0
+  },
+  {
+    "Driver": "Max Chilton",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ettore Chimeri",
+    "cluster": 0
+  },
+  {
+    "Driver": "Louis Chiron",
+    "cluster": 0
+  },
+  {
+    "Driver": "Joie Chitwood",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Christie",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny Claes",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Clapham",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jim Clark",
+    "cluster": 1
+  },
+  {
+    "Driver": "Kevin Cogan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Collins",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bernard Collomb",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alberto Colombo",
+    "cluster": 0
+  },
+  {
+    "Driver": "\u00c9rik Comas",
+    "cluster": 0
+  },
+  {
+    "Driver": "Franco Comotti",
+    "cluster": 0
+  },
+  {
+    "Driver": "George Connor",
+    "cluster": 0
+  },
+  {
+    "Driver": "George Constantine",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Cordts",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Coulthard",
+    "cluster": 1
+  },
+  {
+    "Driver": "Piers Courage",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chris Craft",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jim Crawford",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ray Crawford",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alberto Crespo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Antonio Creus",
+    "cluster": 0
+  },
+  {
+    "Driver": "Larry Crockett",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Crook",
+    "cluster": 0
+  },
+  {
+    "Driver": "Art Cross",
+    "cluster": 0
+  },
+  {
+    "Driver": "Geoffrey Crossley",
+    "cluster": 0
+  },
+  {
+    "Driver": "J\u00e9r\u00f4me d'Ambrosio",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chuck Daigh",
+    "cluster": 0
+  },
+  {
+    "Driver": "Yannick Dalmas",
+    "cluster": 0
+  },
+  {
+    "Driver": "Derek Daly",
+    "cluster": 0
+  },
+  {
+    "Driver": "Christian Danner",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jorge Daponte",
+    "cluster": 0
+  },
+  {
+    "Driver": "Anthony Davidson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jimmy Davies",
+    "cluster": 0
+  },
+  {
+    "Driver": "Colin Davis",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jimmy Daywalt",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean-Denis D\u00e9l\u00e9traz",
+    "cluster": 0
+  },
+  {
+    "Driver": "Patrick Depailler",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pedro Diniz",
+    "cluster": 0
+  },
+  {
+    "Driver": "Duke Dinsmore",
+    "cluster": 0
+  },
+  {
+    "Driver": "Frank Dochnal",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jos\u00e9 Dolhem",
+    "cluster": 0
+  },
+  {
+    "Driver": "Martin Donnelly",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mark Donohue",
+    "cluster": 0
+  },
+  {
+    "Driver": "Robert Doornbos",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ken Downing",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Drake",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paddy Driver",
+    "cluster": 0
+  },
+  {
+    "Driver": "Piero Drogo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bernard de Dryver",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny Dumfries",
+    "cluster": 0
+  },
+  {
+    "Driver": "Geoff Duke",
+    "cluster": 0
+  },
+  {
+    "Driver": "Len Duncan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Piero Dusio",
+    "cluster": 0
+  },
+  {
+    "Driver": "George Eaton",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bernie Ecclestone",
+    "cluster": 0
+  },
+  {
+    "Driver": "Don Edmunds",
+    "cluster": 0
+  },
+  {
+    "Driver": "Guy Edwards",
+    "cluster": 0
+  },
+  {
+    "Driver": "Vic Elford",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ed Elisian",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul Emery",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tom\u00e1\u0161 Enge",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul England",
+    "cluster": 0
+  },
+  {
+    "Driver": "Marcus Ericsson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Harald Ertl",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nasif Est\u00e9fano",
+    "cluster": 0
+  },
+  {
+    "Driver": "Philippe \u00c9tancelin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Evans",
+    "cluster": 0
+  },
+  {
+    "Driver": "Corrado Fabi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Teo Fabi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pascal Fabre",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carlo Facetti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luigi Fagioli",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jack Fairman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Juan Manuel Fangio",
+    "cluster": 1
+  },
+  {
+    "Driver": "Nino Farina",
+    "cluster": 1
+  },
+  {
+    "Driver": "Walt Faulkner",
+    "cluster": 0
+  },
+  {
+    "Driver": "William Ferguson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Maria Teresa de Filippis",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ralph Firman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ludwig Fischer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rudi Fischer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Fisher",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giancarlo Fisichella",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Fitch",
+    "cluster": 0
+  },
+  {
+    "Driver": "Christian Fittipaldi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Emerson Fittipaldi",
+    "cluster": 1
+  },
+  {
+    "Driver": "Pietro Fittipaldi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Wilson Fittipaldi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Theo Fitzau",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pat Flaherty",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jan Flinterman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ron Flockhart",
+    "cluster": 0
+  },
+  {
+    "Driver": "Myron Fohr",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gregor Foitek",
+    "cluster": 0
+  },
+  {
+    "Driver": "George Follmer",
+    "cluster": 0
+  },
+  {
+    "Driver": "George Fonder",
+    "cluster": 0
+  },
+  {
+    "Driver": "Norberto Fontana",
+    "cluster": 0
+  },
+  {
+    "Driver": "Asdr\u00fabal Fontes Bayardo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carl Forberg",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gene Force",
+    "cluster": 0
+  },
+  {
+    "Driver": "Franco Forini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Philip Fotheringham-Parker",
+    "cluster": 0
+  },
+  {
+    "Driver": "A. J. Foyt",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giorgio Francia",
+    "cluster": 0
+  },
+  {
+    "Driver": "Don Freeland",
+    "cluster": 0
+  },
+  {
+    "Driver": "Heinz-Harald Frentzen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul Fr\u00e8re",
+    "cluster": 0
+  },
+  {
+    "Driver": "Patrick Friesacher",
+    "cluster": 0
+  },
+  {
+    "Driver": "Joe Fry",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hiroshi Fushida",
+    "cluster": 0
+  },
+  {
+    "Driver": "Beppe Gabbiani",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bertrand Gachot",
+    "cluster": 0
+  },
+  {
+    "Driver": "Patrick Gaillard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Divina Galica",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nanni Galli",
+    "cluster": 0
+  },
+  {
+    "Driver": "Oscar Alfredo G\u00e1lvez",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fred Gamble",
+    "cluster": 0
+  },
+  {
+    "Driver": "Howden Ganley",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giedo van der Garde",
+    "cluster": 0
+  },
+  {
+    "Driver": "Frank Gardner",
+    "cluster": 0
+  },
+  {
+    "Driver": "Billy Garrett",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jo Gartner",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pierre Gasly",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Gaze",
+    "cluster": 0
+  },
+  {
+    "Driver": "Geki",
+    "cluster": 0
+  },
+  {
+    "Driver": "Olivier Gendebien",
+    "cluster": 0
+  },
+  {
+    "Driver": "Marc Gen\u00e9",
+    "cluster": 0
+  },
+  {
+    "Driver": "Elmer George",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Gerard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gerino Gerini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Gethin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Piercarlo Ghinzani",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bruno Giacomelli",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dick Gibson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gimax",
+    "cluster": 0
+  },
+  {
+    "Driver": "Richie Ginther",
+    "cluster": 0
+  },
+  {
+    "Driver": "Antonio Giovinazzi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Yves Giraud-Cabantous",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ignazio Giunti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Timo Glock",
+    "cluster": 0
+  },
+  {
+    "Driver": "Helm Gl\u00f6ckler",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paco Godia",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carel Godin de Beaufort",
+    "cluster": 0
+  },
+  {
+    "Driver": "Christian Goethals",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul Goldsmith",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+    "cluster": 0
+  },
+  {
+    "Driver": "\u00d3scar Gonz\u00e1lez",
+    "cluster": 0
+  },
+  {
+    "Driver": "Aldo Gordini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Horace Gould",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean-Marc Gounon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Emmanuel de Graffenried",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lucas di Grassi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Cecil Green",
+    "cluster": 0
+  },
+  {
+    "Driver": "Keith Greene",
+    "cluster": 0
+  },
+  {
+    "Driver": "Masten Gregory",
+    "cluster": 0
+  },
+  {
+    "Driver": "Cliff Griffith",
+    "cluster": 0
+  },
+  {
+    "Driver": "Georges Grignard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bobby Grim",
+    "cluster": 0
+  },
+  {
+    "Driver": "Romain Grosjean",
+    "cluster": 0
+  },
+  {
+    "Driver": "Olivier Grouillard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brian Gubby",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andr\u00e9 Guelfi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Miguel \u00c1ngel Guerra",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roberto Guerrero",
+    "cluster": 0
+  },
+  {
+    "Driver": "Maur\u00edcio Gugelmin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dan Gurney",
+    "cluster": 0
+  },
+  {
+    "Driver": "Esteban Guti\u00e9rrez",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hubert Hahne",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Hailwood",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mika H\u00e4kkinen",
+    "cluster": 1
+  },
+  {
+    "Driver": "Bruce Halford",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jim Hall",
+    "cluster": 0
+  },
+  {
+    "Driver": "Duncan Hamilton",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lewis Hamilton",
+    "cluster": 1
+  },
+  {
+    "Driver": "David Hampshire",
+    "cluster": 0
+  },
+  {
+    "Driver": "Sam Hanks",
+    "cluster": 0
+  },
+  {
+    "Driver": "Walt Hansgen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Harris",
+    "cluster": 0
+  },
+  {
+    "Driver": "Cuth Harrison",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brian Hart",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brendon Hartley",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gene Hartley",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rio Haryanto",
+    "cluster": 0
+  },
+  {
+    "Driver": "Masahiro Hasemi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Naoki Hattori",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul Hawkins",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Hawthorn",
+    "cluster": 0
+  },
+  {
+    "Driver": "Boy Hayje",
+    "cluster": 0
+  },
+  {
+    "Driver": "Willi Heeks",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nick Heidfeld",
+    "cluster": 0
+  },
+  {
+    "Driver": "Theo Helfrich",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mack Hellings",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brian Henton",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny Herbert",
+    "cluster": 0
+  },
+  {
+    "Driver": "Al Herman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hans Herrmann",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fran\u00e7ois Hesnault",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hans Heyer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Damon Hill",
+    "cluster": 1
+  },
+  {
+    "Driver": "Graham Hill",
+    "cluster": 1
+  },
+  {
+    "Driver": "Phil Hill",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Hirt",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Hobbs",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gary Hocking",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ingo Hoffmann",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Holland",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jackie Holmes",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Homeier",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kazuyoshi Hoshino",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jerry Hoyt",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nico H\u00fclkenberg",
+    "cluster": 0
+  },
+  {
+    "Driver": "Denny Hulme",
+    "cluster": 0
+  },
+  {
+    "Driver": "James Hunt",
+    "cluster": 1
+  },
+  {
+    "Driver": "Jim Hurtubise",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gus Hutchison",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jacky Ickx",
+    "cluster": 1
+  },
+  {
+    "Driver": "Yuji Ide",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jes\u00fas Iglesias",
+    "cluster": 0
+  },
+  {
+    "Driver": "Taki Inoue",
+    "cluster": 0
+  },
+  {
+    "Driver": "Innes Ireland",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eddie Irvine",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chris Irwin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean-Pierre Jabouille",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jimmy Jackson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Joe James",
+    "cluster": 0
+  },
+  {
+    "Driver": "John James",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean-Pierre Jarier",
+    "cluster": 0
+  },
+  {
+    "Driver": "Max Jean[w]",
+    "cluster": 0
+  },
+  {
+    "Driver": "Stefan Johansson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eddie Johnson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Leslie Johnson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bruce Johnstone",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alan Jones",
+    "cluster": 1
+  },
+  {
+    "Driver": "Tom Jones",
+    "cluster": 0
+  },
+  {
+    "Driver": "Juan Jover",
+    "cluster": 0
+  },
+  {
+    "Driver": "Oswald Karch",
+    "cluster": 0
+  },
+  {
+    "Driver": "Narain Karthikeyan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ukyo Katayama",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ken Kavanagh",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rupert Keegan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eddie Keizan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Al Keller",
+    "cluster": 0
+  },
+  {
+    "Driver": "Joe Kelly",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Kennedy",
+    "cluster": 0
+  },
+  {
+    "Driver": "Loris Kessel",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bruce Kessler",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nicolas Kiesa",
+    "cluster": 0
+  },
+  {
+    "Driver": "Leo Kinnunen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Danny Kladis",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hans Klenk",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter de Klerk",
+    "cluster": 0
+  },
+  {
+    "Driver": "Christian Klien",
+    "cluster": 0
+  },
+  {
+    "Driver": "Karl Kling",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ernst Klodwig",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kamui Kobayashi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Helmuth Koinigg",
+    "cluster": 0
+  },
+  {
+    "Driver": "Heikki Kovalainen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mikko Kozarowitzky",
+    "cluster": 0
+  },
+  {
+    "Driver": "Willi Krakau",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rudolf Krause",
+    "cluster": 0
+  },
+  {
+    "Driver": "Robert Kubica",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kurt Kuhnke",
+    "cluster": 0
+  },
+  {
+    "Driver": "Masami Kuwashima",
+    "cluster": 0
+  },
+  {
+    "Driver": "Daniil Kvyat",
+    "cluster": 0
+  },
+  {
+    "Driver": "Robert La Caze",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jacques Laffite",
+    "cluster": 0
+  },
+  {
+    "Driver": "Franck Lagorce",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jan Lammers",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pedro Lamy",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chico Landi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hermann Lang",
+    "cluster": 0
+  },
+  {
+    "Driver": "Claudio Langes",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nicola Larini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Oscar Larrauri",
+    "cluster": 0
+  },
+  {
+    "Driver": "G\u00e9rard Larrousse",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jud Larson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nicholas Latifi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Niki Lauda",
+    "cluster": 1
+  },
+  {
+    "Driver": "Roger Laurent",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giovanni Lavaggi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chris Lawrence",
+    "cluster": 0
+  },
+  {
+    "Driver": "Charles Leclerc",
+    "cluster": 1
+  },
+  {
+    "Driver": "Michel Lecl\u00e8re",
+    "cluster": 0
+  },
+  {
+    "Driver": "Neville Lederle",
+    "cluster": 0
+  },
+  {
+    "Driver": "Geoff Lees",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gijs van Lennep",
+    "cluster": 0
+  },
+  {
+    "Driver": "Arthur Legat",
+    "cluster": 0
+  },
+  {
+    "Driver": "JJ Lehto",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lamberto Leoni",
+    "cluster": 0
+  },
+  {
+    "Driver": "Les Leston",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pierre Levegh",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bayliss Levrett",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jackie Lewis",
+    "cluster": 0
+  },
+  {
+    "Driver": "Stuart Lewis-Evans",
+    "cluster": 0
+  },
+  {
+    "Driver": "Guy Ligier",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andy Linden",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roberto Lippi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Vitantonio Liuzzi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dries van der Lof",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lella Lombardi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ricardo Londo\u00f1o",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ernst Loof",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andr\u00e9 Lotterer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Henri Louveau",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Love",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pete Lovely",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roger Loyer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean Lucas",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean Lucienbonnet",
+    "cluster": 0
+  },
+  {
+    "Driver": "Erik Lundgren",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brett Lunger",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike MacDowel",
+    "cluster": 0
+  },
+  {
+    "Driver": "Herbert MacKay-Fraser",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Mackey",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lance Macklin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Damien Magee",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Maggs",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Magill",
+    "cluster": 0
+  },
+  {
+    "Driver": "Umberto Maglioli",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jan Magnussen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kevin Magnussen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Guy Mairesse",
+    "cluster": 0
+  },
+  {
+    "Driver": "Willy Mairesse",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pastor Maldonado",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nigel Mansell",
+    "cluster": 1
+  },
+  {
+    "Driver": "Sergio Mantovani",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny Mantz",
+    "cluster": 0
+  },
+  {
+    "Driver": "Robert Manzon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Onofre Marim\u00f3n",
+    "cluster": 0
+  },
+  {
+    "Driver": "Helmut Marko",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tarso Marques",
+    "cluster": 0
+  },
+  {
+    "Driver": "Leslie Marr",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Marsh",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eug\u00e8ne Martin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pierluigi Martini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jochen Mass",
+    "cluster": 0
+  },
+  {
+    "Driver": "Felipe Massa",
+    "cluster": 1
+  },
+  {
+    "Driver": "Cristiano da Matta",
+    "cluster": 0
+  },
+  {
+    "Driver": "Michael May",
+    "cluster": 0
+  },
+  {
+    "Driver": "Timmy Mayer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nikita Mazepin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fran\u00e7ois Mazet",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gast\u00f3n Mazzacane",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kenneth McAlpine",
+    "cluster": 0
+  },
+  {
+    "Driver": "Perry McCarthy",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ernie McCoy",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny McDowell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jack McGrath",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brian McGuire",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bruce McLaren",
+    "cluster": 0
+  },
+  {
+    "Driver": "Allan McNish",
+    "cluster": 0
+  },
+  {
+    "Driver": "Graham McRae",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jim McWithey",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carlos Menditeguy",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roberto Merhi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Harry Merkel",
+    "cluster": 0
+  },
+  {
+    "Driver": "Arturo Merzario",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roberto Mieres",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fran\u00e7ois Migault",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Miles",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ken Miles",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andr\u00e9 Milhoux",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chet Miller",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gerhard Mitter",
+    "cluster": 0
+  },
+  {
+    "Driver": "Stefano Modena",
+    "cluster": 0
+  },
+  {
+    "Driver": "Thomas Monarch",
+    "cluster": 0
+  },
+  {
+    "Driver": "Franck Montagny",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tiago Monteiro",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andrea Montermini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Monteverdi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Robin Montgomerie-Charrington",
+    "cluster": 0
+  },
+  {
+    "Driver": "Juan Pablo Montoya",
+    "cluster": 1
+  },
+  {
+    "Driver": "Gianni Morbidelli",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roberto Moreno",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dave Morgan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Silvio Moser",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Moss",
+    "cluster": 0
+  },
+  {
+    "Driver": "Stirling Moss",
+    "cluster": 1
+  },
+  {
+    "Driver": "Gino Munaron",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Murray",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luigi Musso",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kazuki Nakajima",
+    "cluster": 0
+  },
+  {
+    "Driver": "Satoru Nakajima",
+    "cluster": 0
+  },
+  {
+    "Driver": "Shinji Nakano",
+    "cluster": 0
+  },
+  {
+    "Driver": "Duke Nalon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alessandro Nannini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Emanuele Naspetti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Felipe Nasr",
+    "cluster": 0
+  },
+  {
+    "Driver": "Massimo Natili",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brian Naylor",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Nazaruk",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tiff Needell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jac Nellemann",
+    "cluster": 0
+  },
+  {
+    "Driver": "Patrick N\u00e8ve",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Nicholson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Cal Niday",
+    "cluster": 0
+  },
+  {
+    "Driver": "Helmut Niedermayr",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brausch Niemann",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gunnar Nilsson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hideki Noda",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lando Norris",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rodney Nuckey",
+    "cluster": 0
+  },
+  {
+    "Driver": "Robert O'Brien",
+    "cluster": 0
+  },
+  {
+    "Driver": "Esteban Ocon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pat O'Connor",
+    "cluster": 0
+  },
+  {
+    "Driver": "Casimiro de Oliveira",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jackie Oliver",
+    "cluster": 0
+  },
+  {
+    "Driver": "Danny Ongais",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rikky von Opel",
+    "cluster": 0
+  },
+  {
+    "Driver": "Karl Oppitzhauser",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fritz d'Orey",
+    "cluster": 0
+  },
+  {
+    "Driver": "Arthur Owen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carlos Pace",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nello Pagani",
+    "cluster": 0
+  },
+  {
+    "Driver": "Riccardo Paletti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Torsten Palm",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jolyon Palmer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jonathan Palmer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Olivier Panis",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giorgio Pantano",
+    "cluster": 0
+  },
+  {
+    "Driver": "Massimiliano Papis",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Parkes",
+    "cluster": 0
+  },
+  {
+    "Driver": "Reg Parnell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tim Parnell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnnie Parsons",
+    "cluster": 0
+  },
+  {
+    "Driver": "Riccardo Patrese",
+    "cluster": 1
+  },
+  {
+    "Driver": "Al Pease",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roger Penske",
+    "cluster": 0
+  },
+  {
+    "Driver": "Cesare Perdisa",
+    "cluster": 0
+  },
+  {
+    "Driver": "Sergio P\u00e9rez",
+    "cluster": 1
+  },
+  {
+    "Driver": "Luis P\u00e9rez-Sala",
+    "cluster": 0
+  },
+  {
+    "Driver": "Larry Perkins",
+    "cluster": 0
+  },
+  {
+    "Driver": "Henri Pescarolo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alessandro Pesenti-Rossi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Josef Peters",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ronnie Peterson",
+    "cluster": 1
+  },
+  {
+    "Driver": "Vitaly Petrov",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alfredo Pi\u00e1n",
+    "cluster": 0
+  },
+  {
+    "Driver": "Oscar Piastri",
+    "cluster": 0
+  },
+  {
+    "Driver": "Charles Pic",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fran\u00e7ois Picard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ernie Pieterse",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul Pietsch",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andr\u00e9 Pilette",
+    "cluster": 0
+  },
+  {
+    "Driver": "Teddy Pilette",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luigi Piotti",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Piper",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nelson Piquet",
+    "cluster": 1
+  },
+  {
+    "Driver": "Nelson Piquet Jr.",
+    "cluster": 0
+  },
+  {
+    "Driver": "Renato Pirocchi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Didier Pironi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Emanuele Pirro",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ant\u00f4nio Pizzonia",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eric van de Poele",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jacques Pollet",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ben Pon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dennis Poore",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alfonso de Portago",
+    "cluster": 0
+  },
+  {
+    "Driver": "Sam Posey",
+    "cluster": 0
+  },
+  {
+    "Driver": "Charles Pozzi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jackie Pretorius",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ernesto Prinoth",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Prophet",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alain Prost",
+    "cluster": 1
+  },
+  {
+    "Driver": "Tom Pryce",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Purley",
+    "cluster": 0
+  },
+  {
+    "Driver": "Clive Puzey",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dieter Quester",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ian Raby",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bobby Rahal",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kimi R\u00e4ikk\u00f6nen",
+    "cluster": 1
+  },
+  {
+    "Driver": "Hermano da Silva Ramos",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pierre-Henri Raphanel",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dick Rathmann",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jim Rathmann",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roland Ratzenberger",
+    "cluster": 0
+  },
+  {
+    "Driver": "H\u00e9ctor Rebaque",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brian Redman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jimmy Reece",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ray Reed",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alan Rees",
+    "cluster": 0
+  },
+  {
+    "Driver": "Clay Regazzoni",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul di Resta",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carlos Reutemann",
+    "cluster": 1
+  },
+  {
+    "Driver": "Lance Reventlow",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Revson",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Rhodes",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alex Ribeiro",
+    "cluster": 0
+  },
+  {
+    "Driver": "Daniel Ricciardo",
+    "cluster": 1
+  },
+  {
+    "Driver": "Ken Richardson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fritz Riess",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jim Rigsby",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jochen Rindt",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Riseley-Prichard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giovanni de Riu",
+    "cluster": 0
+  },
+  {
+    "Driver": "Richard Robarts",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pedro Rodr\u00edguez",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ricardo Rodr\u00edguez",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alberto Rodriguez Larreta",
+    "cluster": 0
+  },
+  {
+    "Driver": "Franco Rol",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alan Rollinson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Rolt",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bertil Roos",
+    "cluster": 0
+  },
+  {
+    "Driver": "Pedro de la Rosa",
+    "cluster": 0
+  },
+  {
+    "Driver": "Keke Rosberg",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nico Rosberg",
+    "cluster": 1
+  },
+  {
+    "Driver": "Mauri Rose",
+    "cluster": 0
+  },
+  {
+    "Driver": "Louis Rosier",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ricardo Rosset",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alexander Rossi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Huub Rothengatter",
+    "cluster": 0
+  },
+  {
+    "Driver": "Basil van Rooyen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lloyd Ruby",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean-Claude Rudaz",
+    "cluster": 0
+  },
+  {
+    "Driver": "George Russell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eddie Russo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Paul Russo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Troy Ruttman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Ryan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eddie Sachs",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Said",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carlos Sainz Jr.",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eliseo Salazar",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mika Salo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roy Salvadori",
+    "cluster": 0
+  },
+  {
+    "Driver": "Consalvo Sanesi",
+    "cluster": 0
+  },
+  {
+    "Driver": "St\u00e9phane Sarrazin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Logan Sargeant",
+    "cluster": 0
+  },
+  {
+    "Driver": "Takuma Sato",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carl Scarborough",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ludovico Scarfiotti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Giorgio Scarlatti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ian Scheckter",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jody Scheckter",
+    "cluster": 0
+  },
+  {
+    "Driver": "Harry Schell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tim Schenken",
+    "cluster": 0
+  },
+  {
+    "Driver": "Albert Scherrer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Domenico Schiattarella",
+    "cluster": 0
+  },
+  {
+    "Driver": "Heinz Schiller",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Schindler",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean-Louis Schlesser",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jo Schlesser",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bernd Schneider",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rudolf Schoeller",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rob Schroeder",
+    "cluster": 0
+  },
+  {
+    "Driver": "Michael Schumacher",
+    "cluster": 1
+  },
+  {
+    "Driver": "Mick Schumacher",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ralf Schumacher",
+    "cluster": 0
+  },
+  {
+    "Driver": "Vern Schuppan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Adolfo Schwelm Cruz",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Scott",
+    "cluster": 0
+  },
+  {
+    "Driver": "Archie Scott Brown",
+    "cluster": 0
+  },
+  {
+    "Driver": "Piero Scotti",
+    "cluster": 0
+  },
+  {
+    "Driver": "Wolfgang Seidel",
+    "cluster": 0
+  },
+  {
+    "Driver": "G\u00fcnther Seiffert",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ayrton Senna",
+    "cluster": 1
+  },
+  {
+    "Driver": "Bruno Senna",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dorino Serafini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chico Serra",
+    "cluster": 0
+  },
+  {
+    "Driver": "Doug Serrurier",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny Servoz-Gavin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Settember",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hap Sharp",
+    "cluster": 0
+  },
+  {
+    "Driver": "Brian Shawe-Taylor",
+    "cluster": 0
+  },
+  {
+    "Driver": "Carroll Shelby",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Shelly",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jo Siffert",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andr\u00e9 Simon",
+    "cluster": 0
+  },
+  {
+    "Driver": "Sergey Sirotkin",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rob Slotemaker",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mois\u00e9s Solana",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alex Soler-Roig",
+    "cluster": 0
+  },
+  {
+    "Driver": "Raymond Sommer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Vincenzo Sospiri",
+    "cluster": 0
+  },
+  {
+    "Driver": "Stephen South",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Sparken",
+    "cluster": 0
+  },
+  {
+    "Driver": "Scott Speed",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Spence",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alan Stacey",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gaetano Starrabba",
+    "cluster": 0
+  },
+  {
+    "Driver": "Will Stevens",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chuck Stevenson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ian Stewart",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jackie Stewart",
+    "cluster": 1
+  },
+  {
+    "Driver": "Jimmy Stewart",
+    "cluster": 0
+  },
+  {
+    "Driver": "Siegfried Stohr",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rolf Stommelen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Philippe Streiff",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lance Stroll",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hans Stuck",
+    "cluster": 0
+  },
+  {
+    "Driver": "Hans-Joachim Stuck",
+    "cluster": 0
+  },
+  {
+    "Driver": "Otto Stuppacher",
+    "cluster": 0
+  },
+  {
+    "Driver": "Danny Sullivan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Marc Surer",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Surtees",
+    "cluster": 1
+  },
+  {
+    "Driver": "Andy Sutcliffe",
+    "cluster": 0
+  },
+  {
+    "Driver": "Adrian Sutil",
+    "cluster": 0
+  },
+  {
+    "Driver": "Len Sutton",
+    "cluster": 0
+  },
+  {
+    "Driver": "Aguri Suzuki",
+    "cluster": 0
+  },
+  {
+    "Driver": "Toshio Suzuki",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jacques Swaters",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Sweikert",
+    "cluster": 0
+  },
+  {
+    "Driver": "Toranosuke Takagi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Noritake Takahara",
+    "cluster": 0
+  },
+  {
+    "Driver": "Kunimitsu Takahashi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Patrick Tambay",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luigi Taramazzo",
+    "cluster": 0
+  },
+  {
+    "Driver": "Gabriele Tarquini",
+    "cluster": 0
+  },
+  {
+    "Driver": "Piero Taruffi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dennis Taylor",
+    "cluster": 0
+  },
+  {
+    "Driver": "Henry Taylor",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Taylor",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Taylor",
+    "cluster": 0
+  },
+  {
+    "Driver": "Trevor Taylor",
+    "cluster": 0
+  },
+  {
+    "Driver": "Marshall Teague",
+    "cluster": 0
+  },
+  {
+    "Driver": "Shorty Templeman",
+    "cluster": 0
+  },
+  {
+    "Driver": "Max de Terra",
+    "cluster": 0
+  },
+  {
+    "Driver": "Andr\u00e9 Testut",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Thackwell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alfonso Thiele",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eric Thompson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnny Thomson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Leslie Thorne",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bud Tingelstad",
+    "cluster": 0
+  },
+  {
+    "Driver": "Sam Tingle",
+    "cluster": 0
+  },
+  {
+    "Driver": "Desmond Titterington",
+    "cluster": 0
+  },
+  {
+    "Driver": "Johnnie Tolan",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alejandro de Tomaso",
+    "cluster": 0
+  },
+  {
+    "Driver": "Charles de Tornaco",
+    "cluster": 0
+  },
+  {
+    "Driver": "Tony Trimmer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Maurice Trintignant",
+    "cluster": 0
+  },
+  {
+    "Driver": "Wolfgang von Trips",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jarno Trulli",
+    "cluster": 0
+  },
+  {
+    "Driver": "Yuki Tsunoda",
+    "cluster": 0
+  },
+  {
+    "Driver": "Esteban Tuero",
+    "cluster": 0
+  },
+  {
+    "Driver": "Guy Tunmer",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jack Turner",
+    "cluster": 0
+  },
+  {
+    "Driver": "Toni Ulmen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bobby Unser",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jerry Unser Jr.",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alberto Uria",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nino Vaccarella",
+    "cluster": 0
+  },
+  {
+    "Driver": "Stoffel Vandoorne",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bob Veith",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jean-\u00c9ric Vergne",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jos Verstappen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Max Verstappen",
+    "cluster": 1
+  },
+  {
+    "Driver": "Sebastian Vettel",
+    "cluster": 1
+  },
+  {
+    "Driver": "Gilles Villeneuve",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jacques Villeneuve",
+    "cluster": 1
+  },
+  {
+    "Driver": "Jacques Villeneuve Sr.",
+    "cluster": 0
+  },
+  {
+    "Driver": "Luigi Villoresi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Emilio de Villota",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ottorino Volonterio",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jo Vonlanthen",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ernie de Vos",
+    "cluster": 0
+  },
+  {
+    "Driver": "Nyck de Vries",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Vukovich",
+    "cluster": 1
+  },
+  {
+    "Driver": "Syd van der Vyver",
+    "cluster": 0
+  },
+  {
+    "Driver": "Fred Wacker",
+    "cluster": 0
+  },
+  {
+    "Driver": "David Walker",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Walker",
+    "cluster": 0
+  },
+  {
+    "Driver": "Lee Wallard",
+    "cluster": 0
+  },
+  {
+    "Driver": "Heini Walter",
+    "cluster": 0
+  },
+  {
+    "Driver": "Rodger Ward",
+    "cluster": 0
+  },
+  {
+    "Driver": "Derek Warwick",
+    "cluster": 0
+  },
+  {
+    "Driver": "John Watson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Spider Webb",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mark Webber",
+    "cluster": 1
+  },
+  {
+    "Driver": "Pascal Wehrlein",
+    "cluster": 0
+  },
+  {
+    "Driver": "Volker Weidler",
+    "cluster": 0
+  },
+  {
+    "Driver": "Wayne Weiler",
+    "cluster": 0
+  },
+  {
+    "Driver": "Karl Wendlinger",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Westbury",
+    "cluster": 0
+  },
+  {
+    "Driver": "Chuck Weyant",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ken Wharton",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ted Whiteaway",
+    "cluster": 0
+  },
+  {
+    "Driver": "Graham Whitehead",
+    "cluster": 0
+  },
+  {
+    "Driver": "Peter Whitehead",
+    "cluster": 0
+  },
+  {
+    "Driver": "Bill Whitehouse",
+    "cluster": 0
+  },
+  {
+    "Driver": "Robin Widdows",
+    "cluster": 0
+  },
+  {
+    "Driver": "Eppie Wietzes",
+    "cluster": 0
+  },
+  {
+    "Driver": "Mike Wilds",
+    "cluster": 0
+  },
+  {
+    "Driver": "Jonathan Williams",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roger Williamson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Dempsey Wilson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Desir\u00e9 Wilson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Justin Wilson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Vic Wilson",
+    "cluster": 0
+  },
+  {
+    "Driver": "Joachim Winkelhock",
+    "cluster": 0
+  },
+  {
+    "Driver": "Manfred Winkelhock",
+    "cluster": 0
+  },
+  {
+    "Driver": "Markus Winkelhock",
+    "cluster": 0
+  },
+  {
+    "Driver": "Reine Wisell",
+    "cluster": 0
+  },
+  {
+    "Driver": "Roelof Wunderink",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alexander Wurz",
+    "cluster": 0
+  },
+  {
+    "Driver": "Sakon Yamamoto",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alex Yoong",
+    "cluster": 0
+  },
+  {
+    "Driver": "Alessandro Zanardi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Emilio Zapico",
+    "cluster": 0
+  },
+  {
+    "Driver": "Zhou Guanyu",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ricardo Zonta",
+    "cluster": 0
+  },
+  {
+    "Driver": "Renzo Zorzi",
+    "cluster": 0
+  },
+  {
+    "Driver": "Ricardo Zunino",
+    "cluster": 0
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "regression": {
+    "rmse_ms": 27097.5,
+    "rmse_sec": 27.1,
+    "mae_ms": 2993.38,
+    "mae_sec": 2.99,
+    "r2": 0.8785,
+    "train_size": 471264,
+    "test_size": 117817,
+    "features": [
+      "year",
+      "round",
+      "lap",
+      "position",
+      "circuit_enc",
+      "grid",
+      "constructorId"
+    ]
+  },
+  "classification": {
+    "accuracy": 0.9243,
+    "precision": 0.7378,
+    "recall": 0.6259,
+    "f1": 0.6773,
+    "train_size": 21407,
+    "test_size": 5352,
+    "podium_ratio": 0.1269,
+    "features": [
+      "grid",
+      "constructorId",
+      "year",
+      "round",
+      "circuit_enc",
+      "laps"
+    ]
+  },
+  "clustering": {
+    "n_clusters": 2,
+    "silhouette_score": 0.7453,
+    "n_drivers": 868,
+    "features": [
+      "Championships",
+      "Race_Entries",
+      "Race_Starts",
+      "Pole_Positions",
+      "Race_Wins",
+      "Podiums",
+      "Fastest_Laps",
+      "Points",
+      "Decade",
+      "Pole_Rate",
+      "Start_Rate",
+      "Win_Rate",
+      "Podium_Rate",
+      "FastLap_Rate",
+      "Points_Per_Entry",
+      "Years_Active"
+    ],
+    "pca_variance": [
+      0.6014,
+      0.1251
+    ],
+    "cluster_sizes": {
+      "0": 823,
+      "1": 45
+    },
+    "cluster_profiles": {
+      "0": {
+        "Championships": 0.01,
+        "Race_Entries": 21.92,
+        "Race_Starts": 19.7,
+        "Pole_Positions": 0.17,
+        "Race_Wins": 0.19,
+        "Podiums": 1.18,
+        "Fastest_Laps": 0.28,
+        "Points": 16.46,
+        "Decade": 1971.32,
+        "Pole_Rate": 0.0,
+        "Start_Rate": 0.77,
+        "Win_Rate": 0.0,
+        "Podium_Rate": 0.03,
+        "FastLap_Rate": 0.01,
+        "Points_Per_Entry": 0.29,
+        "Years_Active": 3.2
+      },
+      "1": {
+        "Championships": 1.49,
+        "Race_Entries": 176.24,
+        "Race_Starts": 173.89,
+        "Pole_Positions": 20.84,
+        "Race_Wins": 20.51,
+        "Podiums": 50.91,
+        "Fastest_Laps": 19.22,
+        "Points": 776.31,
+        "Decade": 1988.67,
+        "Pole_Rate": 0.14,
+        "Start_Rate": 0.98,
+        "Win_Rate": 0.14,
+        "Podium_Rate": 0.3,
+        "FastLap_Rate": 0.13,
+        "Points_Per_Entry": 3.93,
+        "Years_Active": 12.16
+      }
+    }
+  }
+}

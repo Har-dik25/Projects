@@ -1,0 +1,49 @@
+Here is a list of Open Source / Free Tier APIs suitable for practicing continuous data pipelines:
+
+1. **OpenWeatherMap API**
+   - **Type:** Weather Data
+   - **Use For:** Real-time weather, forecasts, historical data.
+   - **Good For:** Time-series analysis, forecasting models.
+   - **Link:** https://openweathermap.org/api
+
+2. **CoinGecko API**
+   - **Type:** Cryptocurrency Market Data
+   - **Use For:** Real-time crypto prices, market caps, trading volume.
+   - **Good For:** Streaming data, financial analysis, arbitrage detection.
+   - **Link:** https://www.coingecko.com/en/api
+
+3. **NASA Open APIs**
+   - **Type:** Space & Earth Science
+   - **Use For:** Astronomy Picture of the Day, Asteroid watch (NeoWs), Earth imagery.
+   - **Good For:** Image processing pipelines, event-driven data.
+   - **Link:** https://api.nasa.gov/
+
+4. **USGS Earthquake Hazards Program API**
+   - **Type:** Geospatial / Natural Disasters
+   - **Use For:** Real-time earthquake feed (GeoJSON).
+   - **Good For:** geospatial visualization, alerting systems.
+   - **Link:** https://earthquake.usgs.gov/fdsnws/event/1/
+
+5. **Random User Generator**
+   - **Type:** Mock Data
+   - **Use For:** Generating large datasets of fake user profiles.
+   - **Good For:** Testing database schemas, load testing pipelines.
+   - **Link:** https://randomuser.me/
+
+6. **The Movie Database (TMDb) API**
+   - **Type:** Entertainment
+   - **Use For:** Movie details, ratings, cast info.
+   - **Good For:** Recommendation system pipelines, text analysis.
+   - **Link:** https://www.themoviedb.org/documentation/api
+
+7. **NewsAPI**
+   - **Type:** News Aggregation
+   - **Use For:** Breaking news headlines, article search.
+   - **Good For:** NLP pipelines, sentiment analysis (has rate limits on free tier).
+   - **Link:** https://newsapi.org/
+
+8. **Rest Countries**
+   - **Type:** Reference Data
+   - **Use For:** Information about countries.
+   - **Good For:** Data enrichment pipelines.
+   - **Link:** https://restcountries.com/

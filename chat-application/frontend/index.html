@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatter - Chat Application</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0f172a;
+            height: 100vh;
+            display: flex;
+        }
+
+        /* Login */
+        .login {
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: #020617;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .login-box {
+            background: #111827;
+            padding: 30px;
+            border-radius: 8px;
+            width: 300px;
+            color: white;
+            text-align: center;
+        }
+
+        .login-box input,
+        .login-box select,
+        .login-box button {
+            width: 100%;
+            margin-top: 10px;
+            padding: 10px;
+        }
+
+        .login-box button {
+            background: #2563eb;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 250px;
+            background: #020617;
+            color: white;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar h3 {
+            padding: 15px;
+            margin: 0;
+            border-bottom: 1px solid #1e293b;
+        }
+
+        .user-list {
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        .user-item {
+            padding: 10px;
+            border-bottom: 1px solid #1e293b;
+        }
+
+        /* Chat Area */
+        .chat-area {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: #f8fafc;
+        }
+
+        .chat-header {
+            background: #2563eb;
+            color: white;
+            padding: 15px;
+            font-weight: bold;
+        }
+
+        .chat-box {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background: #e5e7eb;
+        }
+
+        .message {
+            max-width: 70%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 10px;
+            font-size: 14px;
+        }
+
+        .sender {
+            background: #bfdbfe;
+            margin-left: auto;
+            text-align: right;
+        }
+
+        .receiver {
+            background: white;
+            margin-right: auto;
+            text-align: left;
+        }
+
+        .chat-input {
+            display: flex;
+            padding: 10px;
+            border-top: 1px solid #ccc;
+            background: white;
+        }
+
+        .chat-input input {
+            flex: 1;
+            padding: 10px;
+        }
+
+        .chat-input button {
+            padding: 10px 20px;
+            background: #2563eb;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- LOGIN -->
+<div id="login" class="login">
+    <div class="login-box">
+        <h2>Chatter Login</h2>
+        <input id="username" placeholder="Your username">
+
+        <label>Select chat type</label>
+        <select id="type">
+            <option value="private">Private Chat</option>
+            <option value="group">Group Chat</option>
+        </select>
+
+        <input id="to" placeholder="Username (private) or group1 (group)">
+
+        <label>Select group members (for group)</label>
+        <select id="groupMembers" multiple>
+            <option value="user1">user1</option>
+            <option value="user2">user2</option>
+            <option value="user3">user3</option>
+            <option value="user4">user4</option>
+        </select>
+
+        <button onclick="connect()">Login</button>
+    </div>
+</div>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+    <h3>Users</h3>
+    <div id="users" class="user-list"></div>
+</div>
+
+<!-- CHAT AREA -->
+<div class="chat-area">
+    <div id="chat-header" class="chat-header">Chat</div>
+    <div id="chat" class="chat-box"></div>
+
+    <div class="chat-input">
+        <input id="msg" placeholder="Type a message">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

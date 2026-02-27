@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic ML Platform — Train, Evaluate, Explain</title>
+    <meta name="description"
+        content="Dynamic Machine Learning platform: select any CSV dataset, perform EDA, train Regression/Classification/Clustering models, and get plain-language explanations.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+    <!-- ═══════════ HEADER ═══════════ -->
+    <header class="header">
+        <div class="header-badge">🧠 Machine Learning Platform</div>
+        <h1>Dynamic ML Studio</h1>
+        <p>Select a dataset, explore it, choose your ML task, and let the platform do the rest — with full explanations
+        </p>
+    </header>
+
+    <!-- ═══════════ STEPPER NAV ═══════════ -->
+    <nav class="stepper" id="stepper">
+        <button class="step-btn active" data-step="1" id="step-btn-1"><span class="step-num">1</span><span
+                class="step-label">Select Dataset</span></button>
+        <div class="step-line"></div>
+        <button class="step-btn" data-step="2" id="step-btn-2" disabled><span class="step-num">2</span><span
+                class="step-label">Explore Data</span></button>
+        <div class="step-line"></div>
+        <button class="step-btn" data-step="3" id="step-btn-3" disabled><span class="step-num">3</span><span
+                class="step-label">Choose Task</span></button>
+        <div class="step-line"></div>
+        <button class="step-btn" data-step="4" id="step-btn-4" disabled><span class="step-num">4</span><span
+                class="step-label">Results</span></button>
+        <div class="step-line"></div>
+        <button class="step-btn" data-step="5" id="step-btn-5" disabled><span class="step-num">5</span><span
+                class="step-label">Document</span></button>
+    </nav>
+
+    <!-- ═══════════ STEP 1: SELECT DATASET ═══════════ -->
+    <section class="panel active" id="panel-1">
+        <div class="card">
+            <div class="card-title">📂 Select a Dataset</div>
+            <div class="card-subtitle">Choose any CSV file from the datasets folder to begin your ML journey</div>
+            <div class="dataset-grid" id="dataset-grid">
+                <div class="loading-placeholder">
+                    <div class="spinner"></div> Loading datasets...
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════ STEP 2: EDA ═══════════ -->
+    <section class="panel" id="panel-2">
+        <div class="card">
+            <div class="card-title">📊 Dataset Overview — <span id="eda-filename" class="accent-text"></span></div>
+            <div class="card-subtitle" id="eda-subtitle"></div>
+            <div class="metrics-grid" id="eda-stats"></div>
+        </div>
+        <div class="card">
+            <div class="card-title">📋 Column Details</div>
+            <div class="table-wrap">
+                <table class="data-table" id="col-table">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-title">🔍 Sample Data (First 5 Rows)</div>
+            <div class="table-wrap">
+                <table class="data-table" id="sample-table">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-title">📈 EDA Visualizations</div>
+            <div class="plots-grid" id="eda-plots"></div>
+        </div>
+        <div style="text-align:center;margin-top:24px;">
+            <button class="btn btn-primary" onclick="goToStep(3)">🚀 Proceed to ML Task Selection</button>
+        </div>
+    </section>
+
+    <!-- ═══════════ STEP 3: CHOOSE TASK ═══════════ -->
+    <section class="panel" id="panel-3">
+        <div class="card">
+            <div class="card-title">🎯 Choose ML Task for <span id="task-filename" class="accent-text"></span></div>
+            <div class="card-subtitle">Select the type of machine learning you want to perform</div>
+            <div class="task-grid">
+                <div class="task-card" id="task-regression" onclick="selectTask('regression')">
+                    <div class="task-icon">📈</div>
+                    <div class="task-name">Regression</div>
+                    <div class="task-desc">Predict a continuous number (e.g., price, time, score)</div>
+                </div>
+                <div class="task-card" id="task-classification" onclick="selectTask('classification')">
+                    <div class="task-icon">🏷️</div>
+                    <div class="task-name">Classification</div>
+                    <div class="task-desc">Predict a category or class (e.g., yes/no, type A/B/C)</div>
+                </div>
+                <div class="task-card" id="task-clustering" onclick="selectTask('clustering')">
+                    <div class="task-icon">🎯</div>
+                    <div class="task-name">Clustering</div>
+                    <div class="task-desc">Find natural groups in data (no target needed)</div>
+                </div>
+            </div>
+        </div>
+        <!-- Target & Features Selection -->
+        <div class="card" id="config-card" style="display:none;">
+            <div class="card-title">⚙️ Configure Model</div>
+            <div class="form-grid" id="config-form"></div>
+            <div style="text-align:center;margin-top:20px;">
+                <button class="btn btn-primary" id="btn-train" onclick="trainModel()">🤖 Train Model</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════ STEP 4: RESULTS ═══════════ -->
+    <section class="panel" id="panel-4">
+        <div id="results-area"></div>
+        <div style="text-align:center;margin-top:24px;">
+            <button class="btn btn-teal" onclick="goToStep(5)">📝 Document Your Analysis</button>
+            <button class="btn btn-outline" onclick="resetAll()" style="margin-left:12px;">🔄 Start New
+                Analysis</button>
+        </div>
+    </section>
+
+    <!-- ═══════════ STEP 5: COMMENT BOX ═══════════ -->
+    <section class="panel" id="panel-5">
+        <div class="card">
+            <div class="card-title">📝 Document Your Analysis</div>
+            <div class="card-subtitle">Write down what you did, learned, and observed during this ML process</div>
+            <div id="auto-summary" class="auto-summary"></div>
+            <div class="form-group" style="margin-top:20px;">
+                <label for="comment-box">Your Notes & Observations</label>
+                <textarea id="comment-box" class="comment-textarea" rows="10"
+                    placeholder="Write your analysis notes here...&#10;&#10;Example:&#10;- I selected the F1 dataset for clustering&#10;- The data had 500 rows and 8 columns&#10;- I chose KMeans clustering and it found 3 groups&#10;- Cluster 0 represents aggressive drivers..."></textarea>
+            </div>
+            <div style="display:flex;gap:12px;margin-top:16px;flex-wrap:wrap;">
+                <button class="btn btn-primary" onclick="downloadReport()">📥 Download Report</button>
+                <button class="btn btn-teal" onclick="copyReport()">📋 Copy to Clipboard</button>
+                <button class="btn btn-outline" onclick="resetAll()">🔄 New Analysis</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════ LIGHTBOX ═══════════ -->
+    <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+        <img id="lightbox-img" src="" alt="Plot zoom">
+    </div>
+
+    <!-- ═══════════ TOAST ═══════════ -->
+    <div class="toast" id="toast"></div>
+
+    <!-- ═══════════ FOOTER ═══════════ -->
+    <footer class="footer">
+        Dynamic ML Studio • Built with Python, Scikit-learn & Flask • Regression · Classification · Clustering
+    </footer>
+
+    <script src="/static/app.js"></script>
+</body>
+
+</html>
