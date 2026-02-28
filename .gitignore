@@ -7,3 +7,7 @@ node_modules
 
 # Large model files (exceed GitHub 100MB limit)
 *.pkl
+
+# Google API secrets
+creds.json
+token.json
